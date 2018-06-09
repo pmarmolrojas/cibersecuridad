@@ -1457,6 +1457,8 @@
 
 	footer {
 		padding-top: 1.5em;
+		margin-left: 9.5em;
+		margin-right: 9.5em;
 	}
 
 	br.clear {
@@ -2023,9 +2025,8 @@
 		}
 
 		#header footer {
-			padding-top: 1.5em;
-			margin-left: 9.5em;
-			margin-right: 9.5em;
+			padding-top: 0.5em;
+
 		}
 
 
