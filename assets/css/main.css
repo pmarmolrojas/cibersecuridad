@@ -2024,7 +2024,11 @@
 
 		#header footer {
 			padding-top: 1.5em;
+			margin-left: 9.5em;
+			margin-right: 9.5em;
 		}
+
+
 
 /* Main Sections */
 
@@ -2080,6 +2084,8 @@
 				padding-top: 0;
 				background: #fff;
 			}
+
+
 
 /* Footer */
 
@@ -2320,5 +2326,3 @@
 				.main > .content h3 {
 					font-size: 1.25em;
 				}
-
-	}
